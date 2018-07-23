@@ -12,3 +12,11 @@ party_name = gets.chomp
 puts "what's the day is the party"
 
 date = gets.chomp
+
+puts "what time does the party start"
+
+time = gets.chomp
+
+puts "who is hosting the party"
+
+host_name = gets.chomp
