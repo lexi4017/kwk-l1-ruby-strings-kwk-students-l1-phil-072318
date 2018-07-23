@@ -21,8 +21,6 @@ puts "who is hosting the party"
 
 host_name = gets.chomp
 
-
-
 puts "Dear #{guest_name},"
 puts "You are cordiallu invited to the #{party_name} on #{date} at #{time}."
 puts "Please RSVP no later than October 30."
